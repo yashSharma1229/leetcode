@@ -7,4 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/yashSharma1229/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/yashSharma1229/leetcode/tree/master/0503-next-greater-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/yashSharma1229/leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/yashSharma1229/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
