@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yashSharma1229/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashSharma1229/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/yashSharma1229/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/yashSharma1229/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -28,8 +29,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yashSharma1229/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yashSharma1229/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/yashSharma1229/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yashSharma1229/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/yashSharma1229/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/yashSharma1229/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/yashSharma1229/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
