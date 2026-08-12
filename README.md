@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashSharma1229/leetcode/tree/master/0002-add-two-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/yashSharma1229/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/yashSharma1229/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yashSharma1229/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yashSharma1229/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
