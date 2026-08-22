@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashSharma1229/leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/yashSharma1229/leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/yashSharma1229/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/yashSharma1229/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashSharma1229/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/yashSharma1229/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/yashSharma1229/leetcode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/yashSharma1229/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yashSharma1229/leetcode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/yashSharma1229/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yashSharma1229/leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/yashSharma1229/leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/yashSharma1229/leetcode/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yashSharma1229/leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yashSharma1229/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
