@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashSharma1229/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/yashSharma1229/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0735-asteroid-collision](https://github.com/yashSharma1229/leetcode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/yashSharma1229/leetcode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashSharma1229/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yashSharma1229/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/yashSharma1229/leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
